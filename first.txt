@@ -3,3 +3,5 @@ This is my git repository
 I want to change the second git
 
 changed by bhojraj
+
+ This is changed now 
