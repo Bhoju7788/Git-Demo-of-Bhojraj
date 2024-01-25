@@ -7,3 +7,7 @@ now planning to move mubai
 
 
 angry
+
+
+
+This is for checking the repository what had been done after updating to it 
